@@ -1,2 +1,3 @@
-![Vision (1)](https://user-images.githubusercontent.com/48095548/171028901-7ea67bc8-6f44-4c3a-83f2-993ad6dc4aa3.png)
+![Vision (2)](https://user-images.githubusercontent.com/48095548/171029278-d56ee4b9-70ad-41f1-9208-7e8ed5e9813a.png)
+
 # A Virtual Assistant for the Visually Impaired
