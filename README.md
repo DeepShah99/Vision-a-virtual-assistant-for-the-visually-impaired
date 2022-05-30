@@ -1,1 +1,1 @@
-# Vison-a-virtual-assistant-for-the-visually-impaired
+# Vision-a-virtual-assistant-for-the-visually-impaired
