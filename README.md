@@ -1,4 +1,4 @@
-# Vision:AVirtualAssistantfortheVisuallyImpaired
+# Vision
 Proposed a Virtual Assistant as an Engineering Capstone Project, which aims to help visually impaired individuals in navigation.
 Live feed captured from the Raspberry Pi is sent to Amazon Rekognition to extract information and insights.
 Log Analysis is done on the feedback data with the help of AWS Athena to create stronger correlations in patterns and refine its navigation over time.
@@ -99,4 +99,4 @@ SOFTWARE.
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#Vision:AVirtualAssistantfortheVisuallyImpaired)
+[Back To The Top](#Vision)
