@@ -2,7 +2,7 @@
 Proposed a Virtual Assistant as an Engineering Capstone Project, which aims to help visually impaired individuals in navigation.
 Live feed captured from the Raspberry Pi is sent to Amazon Rekognition to extract information and insights.
 Log Analysis is done on the feedback data with the help of AWS Athena to create stronger correlations in patterns and refine its navigation over time.
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <img align="right" img width="774" alt="Screen Shot 2022-10-19 at 12 16 26 AM" src="https://user-images.githubusercontent.com/48095548/196517889-f02372ea-e621-439f-89af-68d8370186c0.png">
 
 ---
