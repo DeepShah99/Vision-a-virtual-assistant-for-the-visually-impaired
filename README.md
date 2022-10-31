@@ -15,7 +15,7 @@ Log Analysis is done on the feedback data with the help of AWS Athena to create 
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
-<br/><br/><br/><br/>
+
 ---
 
 ## Description
